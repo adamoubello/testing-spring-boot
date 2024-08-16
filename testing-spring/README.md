@@ -13,10 +13,3 @@ After cloning this repo, from the project root run:
 ```text
 ./mvnw jetty:run-war
 ```
-
-## Support
-For questions and help:
-* Please post in course
-* Or post in the Slack Community exclusive to the course.
-
-GitHub Issues will not be addressed.
